@@ -1,0 +1,31 @@
++ Features
+  * Automatic menu generation
+  * Unlimited content pages
+  * File manager
+  * Image galleries
+
++ Sections
+  * Contact Information
+    + Business Name
+    + Address
+    + City
+    + State
+    + Zip Code
+    + Phone Number
+    + Fax Number
+  * Navigation
+    + Title
+    + Page
+    + Parent
+  * Pages
+    + Title
+    + Attached files => Files
+  * Files (File manager)
+    + Title
+    + Upload
+  * Galleries (Photo manager)
+    + Title
+  * Photos (Photo manager)
+    + Title
+    + Gallery
+    + Upload

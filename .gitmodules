@@ -1,0 +1,87 @@
+[submodule "extensions/apipage"]
+	path = extensions/apipage
+	url = https://github.com/iwyg/apipage.git
+[submodule "extensions/autocomplete_tags"]
+	path = extensions/autocomplete_tags
+	url = https://github.com/tachyondecay/autocomplete_tags.git
+[submodule "extensions/breadcrumb"]
+	path = extensions/breadcrumb
+	url = https://github.com/symphonists/breadcrumb.git
+[submodule "extensions/client_logo"]
+	path = extensions/client_logo
+	url = https://github.com/fawx/client_logo.git
+[submodule "extensions/content_type_mappings"]
+	path = extensions/content_type_mappings
+	url = https://github.com/symphonists/content_type_mappings.git
+[submodule "extensions/datetime"]
+	path = extensions/datetime
+	url = https://github.com/hananils/datetime.git
+[submodule "extensions/dont_drop"]
+	path = extensions/dont_drop
+	url = https://github.com/nils-werner/dont_drop.git
+[submodule "extensions/dump_db"]
+	path = extensions/dump_db
+	url = https://github.com/nils-werner/dump_db.git
+[submodule "extensions/duplicate_entry"]
+	path = extensions/duplicate_entry
+	url = https://github.com/symphonists/duplicate_entry.git
+[submodule "extensions/entity_diagram"]
+	path = extensions/entity_diagram
+	url = https://github.com/symphonists/entity_diagram.git
+[submodule "extensions/entry_nav"]
+	path = extensions/entry_nav
+	url = https://github.com/vlad-ghita/entry_nav.git
+[submodule "extensions/export_ensemble"]
+	path = extensions/export_ensemble
+	url = https://github.com/symphonycms/export_ensemble.git
+[submodule "extensions/fieldsuppressor"]
+	path = extensions/fieldsuppressor
+	url = https://github.com/pixelninja/fieldsuppressor.git
+[submodule "extensions/image_index_preview"]
+	path = extensions/image_index_preview
+	url = https://github.com/symphonists/image_index_preview.git
+[submodule "extensions/jit_image_manipulation"]
+	path = extensions/jit_image_manipulation
+	url = https://github.com/symphonycms/jit_image_manipulation.git
+[submodule "extensions/maintenance_mode"]
+	path = extensions/maintenance_mode
+	url = https://github.com/symphonycms/maintenance_mode.git
+[submodule "extensions/members"]
+	path = extensions/members
+	url = https://github.com/symphonycms/members.git
+[submodule "extensions/multiuploadfield"]
+	path = extensions/multiuploadfield
+	url = https://github.com/symphonists/multiuploadfield.git
+[submodule "extensions/numberfield"]
+	path = extensions/numberfield
+	url = https://github.com/symphonycms/numberfield.git
+[submodule "extensions/page_headers"]
+	path = extensions/page_headers
+	url = https://github.com/henrysingleton/page_headers.git
+[submodule "extensions/pagesfield"]
+	path = extensions/pagesfield
+	url = https://github.com/symphonists/pagesfield.git
+[submodule "extensions/profiledevkit"]
+	path = extensions/profiledevkit
+	url = https://github.com/symphonycms/profiledevkit.git
+[submodule "extensions/publish_tabs"]
+	path = extensions/publish_tabs
+	url = https://github.com/symphonists/publish_tabs.git
+[submodule "extensions/publishfiltering"]
+	path = extensions/publishfiltering
+	url = https://github.com/symphonists/publishfiltering.git
+[submodule "extensions/reflectionfield"]
+	path = extensions/reflectionfield
+	url = https://github.com/symphonists/reflectionfield.git
+[submodule "extensions/selectbox_link_field"]
+	path = extensions/selectbox_link_field
+	url = https://github.com/symphonycms/selectbox_link_field.git
+[submodule "extensions/selectbox_link_field_combo"]
+	path = extensions/selectbox_link_field_combo
+	url = https://github.com/vlad-ghita/selectbox_link_field_combo.git
+[submodule "extensions/templates"]
+	path = extensions/templates
+	url = https://github.com/TwistedInteractive/templates.git
+[submodule "extensions/xssfilter"]
+	path = extensions/xssfilter
+	url = https://github.com/symphonycms/xssfilter.git
