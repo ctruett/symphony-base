@@ -58,9 +58,6 @@
 [submodule "extensions/members"]
 	path = extensions/members
 	url = https://github.com/symphonycms/members.git
-[submodule "extensions/multiuploadfield"]
-	path = extensions/multiuploadfield
-	url = https://github.com/symphonists/multiuploadfield.git
 [submodule "extensions/numberfield"]
 	path = extensions/numberfield
 	url = https://github.com/symphonycms/numberfield.git
@@ -88,9 +85,6 @@
 [submodule "extensions/selectbox_link_field_combo"]
 	path = extensions/selectbox_link_field_combo
 	url = https://github.com/vlad-ghita/selectbox_link_field_combo.git
-[submodule "extensions/selectbox_link_field_plus"]
-	path = extensions/selectbox_link_field_plus
-	url = https://github.com/vlad-ghita/selectbox_link_field_plus.git
 [submodule "extensions/static_section"]
 	path = extensions/static_section
 	url = https://github.com/Solutions-Nitriques/static_section.git
