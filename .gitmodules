@@ -16,6 +16,9 @@
 [submodule "extensions/datetime"]
 	path = extensions/datetime
 	url = https://github.com/hananils/datetime.git
+[submodule "extensions/debugdevkit"]
+	path = extensions/debugdevkit
+	url = https://github.com/symphonycms/debugdevkit.git
 [submodule "extensions/dont_drop"]
 	path = extensions/dont_drop
 	url = https://github.com/nils-werner/dont_drop.git
