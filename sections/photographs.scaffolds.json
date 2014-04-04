@@ -1,0 +1,60 @@
+{
+  "section": {
+    "name": "Photographs",
+    "hidden": "no",
+    "static": "no",
+    "static_limit": "1",
+    "navigation_group": "Photo Manager"
+  },
+  "fields": {
+    "Title": {
+      "type": "input",
+      "element_name": "title",
+      "location": [
+        {
+          "value": "main"
+        }
+      ],
+      "required": "yes",
+      "show_column": "yes"
+    },
+    "Gallery": {
+      "type": "selectbox_link",
+      "element_name": "gallery",
+      "location": [
+        {
+          "value": "main"
+        }
+      ],
+      "related_field_id": [
+        {
+          "value": "Title",
+          "optgroup": "Galleries"
+        }
+      ],
+      "limit": "1000",
+      "hide_when_prepopulated": "no",
+      "allow_multiple_selection": "no",
+      "show_association": "no",
+      "required": "yes",
+      "show_column": "yes"
+    },
+    "File": {
+      "type": "upload",
+      "element_name": "file",
+      "location": [
+        {
+          "value": "sidebar"
+        }
+      ],
+      "destination": [
+        {
+          "value": "/workspace/uploads/photos"
+        }
+      ],
+      "validator": "/\\.(?:bmp|gif|jpe?g|png)$/i",
+      "required": "yes",
+      "show_column": "yes"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "section": {
+    "name": "Galleries",
+    "hidden": "no",
+    "static": "no",
+    "static_limit": "1",
+    "navigation_group": "Photo Manager"
+  },
+  "fields": {
+    "Title": {
+      "type": "input"
+    }
+  }
+}

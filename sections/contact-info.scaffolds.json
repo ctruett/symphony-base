@@ -1,0 +1,23 @@
+{
+  "section": {
+    "name": "Contact Info",
+    "hidden": "no",
+    "static": "yes",
+    "static_limit": "1",
+    "navigation_group": "Contact Info"
+  },
+  "fields": {
+    "Business name": {
+      "type": "input"
+    },
+    "Location": {
+      "type": "maplocation"
+    },
+    "Phone": {
+      "type": "input"
+    },
+    "Fax": {
+      "type": "input"
+    }
+  }
+}

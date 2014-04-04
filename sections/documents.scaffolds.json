@@ -1,0 +1,39 @@
+{
+  "section": {
+    "name": "Documents",
+    "hidden": "no",
+    "static": "no",
+    "static_limit": "1",
+    "navigation_group": "File Manager"
+  },
+  "fields": {
+    "Title": {
+      "type": "input",
+      "element_name": "title",
+      "location": [
+        {
+          "value": "main"
+        }
+      ],
+      "required": "yes",
+      "show_column": "yes"
+    },
+    "File": {
+      "type": "upload",
+      "element_name": "file",
+      "location": [
+        {
+          "value": "sidebar"
+        }
+      ],
+      "destination": [
+        {
+          "value": "/workspace/uploads/files"
+        }
+      ],
+      "validator": "/\\.(?:docx?|pdf|rtf|txt)$/i",
+      "required": "yes",
+      "show_column": "yes"
+    }
+  }
+}

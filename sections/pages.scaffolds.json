@@ -1,0 +1,23 @@
+{
+  "section": {
+    "name": "Pages",
+    "hidden": "no",
+    "static": "no",
+    "static_limit": "1",
+    "navigation_group": "Pages"
+  },
+  "fields": {
+    "Title": {
+      "type": "input"
+    },
+    "Content": {
+      "type": "textarea"
+    },
+    "Photo": {
+      "type": "upload"
+    },
+    "Attached files": {
+      "type": "selectbox_link"
+    }
+  }
+}

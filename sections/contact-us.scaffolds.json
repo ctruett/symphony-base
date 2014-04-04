@@ -1,0 +1,74 @@
+{
+  "section": {
+    "name": "Contact Us",
+    "hidden": "no",
+    "static": "no",
+    "static_limit": "1",
+    "navigation_group": "Forms"
+  },
+  "fields": {
+    "Name": {
+      "type": "input",
+      "element_name": "name",
+      "location": [
+        {
+          "value": "main"
+        }
+      ],
+      "required": "yes",
+      "show_column": "yes"
+    },
+    "Email": {
+      "type": "input",
+      "element_name": "email",
+      "location": [
+        {
+          "value": "main"
+        }
+      ],
+      "validator": "/^\\w(?:\\.?[\\w%+-]+)*@\\w(?:[\\w-]*\\.)+?[a-z]{2,}$/i",
+      "required": "yes",
+      "show_column": "yes"
+    },
+    "Phone": {
+      "type": "input",
+      "element_name": "phone",
+      "location": [
+        {
+          "value": "main"
+        }
+      ],
+      "required": "yes",
+      "show_column": "yes"
+    },
+    "Question / Comment": {
+      "type": "textarea",
+      "element_name": "question",
+      "location": [
+        {
+          "value": "main"
+        }
+      ],
+      "formatter": [
+        {
+          "value": "none"
+        }
+      ],
+      "size": "15",
+      "required": "yes",
+      "show_column": "yes"
+    },
+    "Date": {
+      "type": "date",
+      "element_name": "date",
+      "location": [
+        {
+          "value": "sidebar"
+        }
+      ],
+      "required": "yes",
+      "show_column": "no",
+      "pre_populate": "yes"
+    }
+  }
+}
