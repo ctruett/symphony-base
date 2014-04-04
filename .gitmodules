@@ -52,6 +52,9 @@
 [submodule "extensions/maplocationfield"]
 	path = extensions/maplocationfield
 	url = https://github.com/symphonists/maplocationfield.git
+[submodule "extensions/massuploadutility"]
+	path = extensions/massuploadutility
+	url = https://github.com/scottkf/massuploadutility.git
 [submodule "extensions/members"]
 	path = extensions/members
 	url = https://github.com/symphonycms/members.git
