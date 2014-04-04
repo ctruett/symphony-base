@@ -81,8 +81,8 @@
 	url = https://github.com/symphonists/reflectionfield.git
 [submodule "extensions/scaffolds"]
 	path = extensions/scaffolds
-	url = https://github.com/brendo/scaffolds.git
 	branch = integration
+	url = https://github.com/brendo/scaffolds.git
 [submodule "extensions/selectbox_link_field"]
 	path = extensions/selectbox_link_field
 	url = https://github.com/symphonycms/selectbox_link_field.git
