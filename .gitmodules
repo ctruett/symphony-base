@@ -79,6 +79,9 @@
 [submodule "extensions/reflectionfield"]
 	path = extensions/reflectionfield
 	url = https://github.com/symphonists/reflectionfield.git
+[submodule "extensions/remote_datasource"]
+	path = extensions/remote_datasource
+	url = https://github.com/symphonycms/remote_datasource.git
 [submodule "extensions/scaffolds"]
 	path = extensions/scaffolds
 	branch = integration
