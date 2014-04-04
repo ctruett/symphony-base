@@ -49,6 +49,9 @@
 [submodule "extensions/maintenance_mode"]
 	path = extensions/maintenance_mode
 	url = https://github.com/symphonycms/maintenance_mode.git
+[submodule "extensions/maplocationfield"]
+	path = extensions/maplocationfield
+	url = https://github.com/symphonists/maplocationfield.git
 [submodule "extensions/members"]
 	path = extensions/members
 	url = https://github.com/symphonycms/members.git
